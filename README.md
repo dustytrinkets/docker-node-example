@@ -1,6 +1,6 @@
 # Docker Node Example
 
-This is a simple example on how to use Docker on a local Node application explained on my article on ['An introduction to Docker'](https://medium.com/mylinkhere). 
+This is a simple example on how to use Docker on a local Node application explained on my article on ['A practical introduction to Docker with Node.js'](https://medium.com/). 
 
 
 ## Prerequisites
