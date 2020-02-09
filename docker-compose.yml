@@ -5,11 +5,10 @@ services:
   myapp:
     build: .
     ports:
-     - "3000:80"
+     - "3001:3000"
     environment:
-      - PORT=3001
-
-
+     - PORT=3000
+     - TYPE=built and run with docker-compose
     depends_on:
      - mymongo
   
