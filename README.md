@@ -14,7 +14,7 @@ This is a simple example on how to use Docker on a local Node application explai
 
 2. To build a local image of the application --> `docker build -t docker-node-example .`. Make sure Docker is installed by running: `docker -v`.
 
-3. To run the image built with the Dockerfile --> `docker run -p 3001:3001 docker-node-example`
+3. To run the image built with the Dockerfile --> `docker run -p 3001:3000 docker-node-example`
 
 4. Check that the container is running by typing `docker ps` and then navigating to http://localhost:3001/ in your browser.
 
