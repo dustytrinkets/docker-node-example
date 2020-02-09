@@ -1,6 +1,6 @@
 # Docker Node Example
 
-This is a simple example on how to use Docker on a local Node application explained on my article on ['A practical introduction to Docker with Node.js'](https://medium.com/). 
+This is a simple example on how to use Docker on a local Node application explained on my article on ['A practical introduction to Docker with Node.js'](https://medium.com/@lauracorbi89/a-practical-introduction-to-docker-with-node-js-9c6fb7673e1f). 
 
 
 ## Prerequisites
@@ -20,9 +20,9 @@ This is a simple example on how to use Docker on a local Node application explai
 
 5. To shut the application down, enter the command `docker stop docker-node-example`
 
-6. To start and run the application with the docker-compose yml --> `docker-compose up`
+6. To start and run the application with the docker-compose yml --> `docker-compose up` and then navigating to http://localhost:3001/ in your browser.
 
 7. To stop the application with the docker-compose yml --> `docker-compose down`
 
 
-For a better understanding of the code and further explanations on the Docker commands used, be sure to check the [article](https://medium.com/) 
+For a better understanding of the code and further explanations on the Docker commands used, be sure to check the [article](https://medium.com/@lauracorbi89/a-practical-introduction-to-docker-with-node-js-9c6fb7673e1f) 
